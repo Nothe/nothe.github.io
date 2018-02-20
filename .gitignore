@@ -39,3 +39,5 @@ Thumbs.db
 other
 
 *.md
+.DS_Store
+JS/.DS_Store
